@@ -1,0 +1,10 @@
+{
+  "name": "simple-fish-hatchery",
+  "version": "1.0.0",
+  "title": "Simple Fish Hatchery",
+  "author": "cindersofash",
+  "contact": "cinders.of.ash@gmail.com",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Adds hatcheries that can cultivate fish."
+}
